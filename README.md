@@ -47,3 +47,5 @@ This page describes our details and contact.
 
 
 Our customers can contact our consultancy through these contacts and mail-id.
+
+This my project url    https://gray-bay-09a846910.1.azurestaticapps.net
